@@ -1,0 +1,192 @@
+
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+
+body{
+	background-color: #F5F5F5;
+	font-family:'Quicksand', sans-serif;
+	color: black;
+	text-align: center;
+}
+
+h1{
+	color: black;
+	text-align: center;
+	font-size: 25px;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	font-size: 35px;
+}
+
+h3{
+	text-align: center;
+	color: #B893DC;
+	font-size: 38px !important;
+	padding-top: -5px;
+	padding-bottom: 10px;
+	text-shadow: 2px 2px brown;
+}
+
+h5{
+	text-align: bottom;
+	font-size: 40px;
+}
+
+h6{
+	color: floralwhite;
+	font-size: 30px;
+}
+
+h4{
+	color: black;
+	font-size: 40px;
+	text-align: center;
+}
+
+p{ text-align: center;
+
+}
+
+#wrap {
+	position: relative;
+	text-decoration: none;
+}
+
+.container-fluid{
+	background-color: #F5CAC3;
+	display: flex;
+	background-size: contain;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding: !important 0px;
+	margin-bottom: -8px;
+    margin-top: -8px;  
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.carousel-inner{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius:100px;
+}
+
+
+.carousel-item img {
+	height: 400px;
+	object-fit: cover;
+}
+
+.carousel {
+	width: 1296px;
+	margin: 0 auto;
+}
+
+.container{
+	align-items: center|flex-start|space-around; 
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+
+.div.col-4{
+	align-items: center
+	justify-content: middle;
+	margin
+}
+
+.card-body{
+	text-align: center;
+	height: 230px;
+}
+
+.card-img-left-side{
+	height: 300px;
+	object-fit: cover;
+	border-radius: 20px;
+	border-radius: 20px 20px 0px 0px;
+}
+
+.btn-btn-primary{
+	color: success;
+}
+
+
+.col-4{
+	card border-radius: 40px;
+}
+
+.card {
+	border-radius: 20px !important;
+	box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+
+.ending-banner{
+	widows: 100%;
+	background-color: #F5CAC3;
+	color: black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 1519px;
+	margin-left: -110px;
+	margin-bottom: -120px;
+	text-align: center;
+}
+
+.social-media{
+	text-align: center;
+	font-size: 40px;
+}
+
+.social-media i {
+	color: black;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#explanatory-text{
+	margin-bottom: 40px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.card-messages{
+	text-align: center;
+	height: 230px;
+	border: 1px solid;
+	border-color: #d2d2d2;
+	border-radius: 8px;
+	padding: 16px;
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.card-title-messages{
+	font-size: 25px;
+	margin-bottom: 15px;
+	color: #F19571;
+}
+
+.space {
+	height: 1px;
+	margin-top: 0px;
+
+}
+
+.space-bis {
+	height: 15px;
+
+}
